@@ -1,1 +1,2 @@
-# cass_base
+# Ansible for Cassandra on Centos
+ 
