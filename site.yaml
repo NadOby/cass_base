@@ -1,5 +1,5 @@
 ---
-- hosts: users
+- hosts: cassandra
   remote_user: centos
   become: yes
 - import_playbook: java.yaml
