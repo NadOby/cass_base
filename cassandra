@@ -1,0 +1,7 @@
+[all:vars]
+ansible_connection=ssh 
+ansible_ssh_user=centos
+[cassandra]
+ec2-18-185-92-190.eu-central-1.compute.amazonaws.com
+ec2-3-120-138-90.eu-central-1.compute.amazonaws.com
+ec2-54-93-200-97.eu-central-1.compute.amazonaws.com
