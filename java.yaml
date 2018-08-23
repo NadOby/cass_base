@@ -1,0 +1,8 @@
+- hosts: all
+
+  become: yes
+  roles:
+    - srsp.oracle-java
+
+  vars:
+    - java_version: 8
